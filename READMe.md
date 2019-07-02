@@ -1,2 +1,3 @@
-# This is my First Kotlin Project.
-## Simple projects aiming to learn new android language-KOTLIN
+# This is my First Kotlin Project- Consuming web services.
+## This is a simple app that comsumes data from the free Wikipedia API.
+
